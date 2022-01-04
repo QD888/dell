@@ -1,5 +1,4 @@
-# dell
-Dell Technologies developer
+# Dell Technologies developer
 All Products: https://developer.dell.com/products
 
 PowerMax
